@@ -1,6 +1,6 @@
 # Lucas Di Stasi
 
-<hr/>
+![](https://komarev.com/ghpvc/?username=lucasdistasi&style=for-the-badge&color=blue)
 
 #### Back-End Developer with +4 years of experience building web applications, mostly with Java and Spring Framework. I like to be involved in all the software development process, from design to a production deployment. Learning JavaScript, Typescript and ReactJS on my free time.
 
