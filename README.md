@@ -36,34 +36,34 @@ Learning
 
 ### Technologies I've worked with
 
-<img alt="Java" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-<img alt="Kotlin" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png">
-<img alt="Spring" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png">
-<img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-<img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-<img alt="ReactJS" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
+<code><img alt="Java" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img alt="Kotlin" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
+<code><img alt="Spring" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
+<code><img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img alt="ReactJS" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 
 ### Others that worth to mention
 
-<img alt="aws" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-<img alt="docker" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-<img alt="jenkins" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png">
-<img alt="terraform" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">
-<img alt="git" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
-<img alt="github" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
-<img alt="gitlab" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png">
-<img alt="gradle" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png">
-<img alt="maven" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png">
-<img alt="graphql" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png">
-<img alt="groovy" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/groovy/groovy.png">
-<img alt="jakarta-ee" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jakarta-ee/jakarta-ee.png">
-<img alt="mongodb" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
-<img alt="postgresql" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
-<img alt="bigquery" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bigquery/bigquery.png">
-<img alt="oracle-database" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png">
-<img alt="selenium" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png">
-<img alt="linux" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
-<img alt="ubuntu" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png">
+<code><img alt="aws" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img alt="docker" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img alt="jenkins" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png"></code>
+<code><img alt="terraform" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
+<code><img alt="git" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img alt="github" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+<code><img alt="gitlab" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png"></code>
+<code><img alt="gradle" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png"></code>
+<code><img alt="maven" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png"></code>
+<code><img alt="graphql" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
+<code><img alt="groovy" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/groovy/groovy.png"></code>
+<code><img alt="jakarta-ee" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jakarta-ee/jakarta-ee.png"></code>
+<code><img alt="mongodb" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img alt="postgresql" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img alt="bigquery" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bigquery/bigquery.png"></code>
+<code><img alt="oracle-database" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png"></code>
+<code><img alt="selenium" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png"></code>
+<code><img alt="linux" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img alt="ubuntu" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png"></code>
 
 <hr>
 
