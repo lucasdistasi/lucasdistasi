@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=lucasdistasi&style=for-the-badge&color=blue)
 
 <p>
-    Back-End Developer with +4 years of experience building web applications, mostly with Java and Spring Framework. 
+    Back-End Developer with +5 years of experience building web applications, mostly with Java and Spring Framework. 
     I like to be involved in all the software development process, from design to a production deployment. 
     Learning JavaScript, Typescript and ReactJS on my free time.
 </p>
@@ -24,10 +24,10 @@ Main Stack
 
 - [Java](https://www.java.com)
 - [Spring](https://spring.io/)
+- [Kotlin](https://kotlinlang.org/jav)
 
 Learning
 
-- [Kotlin](https://kotlinlang.org/jav)
 - [JavaScript](https://www.javascript.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://react.dev/)
